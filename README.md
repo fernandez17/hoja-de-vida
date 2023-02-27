@@ -1,6 +1,9 @@
 # hoja-de-vida
 cristian de jesus fernandez campo
-![foto](https://github.com/fernandez17/hoja-de-vida/commit/08b8c8ac0e2a55850fbbaa7f12ac4e9a94536e82)
+![foto de hoja de vida](https://user-images.githubusercontent.com/126476618/221681115-bc4757a3-47c5-4197-b7f6-06676fee2863.jpg)
+
+
+
 ## datos personal 
 
 | nombre y apellido | cristian de jesus fernandez campo |
