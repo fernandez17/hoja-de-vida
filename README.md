@@ -1,5 +1,5 @@
 # hoja-de-vida
-![foto](https://github.com/fernandez17/hoja-de-vida/commit/6ba2b244b6dfcb06fbc9f7d49134a51661443918)
+![foto](https://github.com/fernandez17/hoja-de-vida/commit/08b8c8ac0e2a55850fbbaa7f12ac4e9a94536e82)
 ## informacion personal 
 
 |     nombre y apellido           |cristian fernandez campo                  |  
