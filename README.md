@@ -33,7 +33,7 @@ cristian de jesus fernandez campo
 |numero de celular| 321-982-2398|
 
 
-|nombbre y apellido | maria del carmen lopez|
+|nombre y apellido | maria del carmen lopez|
 |-------------------|-----------------------|
 |nombre de empresa donde lavora| olimpica |
 |numero de telefono| 324-349-3290|
